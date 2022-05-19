@@ -1,4 +1,3 @@
-const truffleAssertions = require("truffle-assertions");
 
 var CustomERC721Token = artifacts.require('CustomERC721Token');
 
