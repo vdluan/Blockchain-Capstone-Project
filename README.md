@@ -10,8 +10,10 @@ to test specific file, run test ./test/TestERC721Mintable.js
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
+SquareVerifier Contact Address: 0x3c12ef4938975540e3082ca3f46c4a0c94e36fc4
 
-**Contact Address: 0x09cb1b0E91987d81D8d1B412dD87F2DaB236F455
+**SolnSquareVerifier Contact Address: 0x09cb1b0E91987d81D8d1B412dD87F2DaB236F455
+SolnSquareVerifier Contract ABI: in the file SolnSquareVerifier_ABI in current folder
 
 **Real Estate Market Place is listed at:
 https://testnets.opensea.io/collection/udacity-capstone-token-v2****
